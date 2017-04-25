@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "isAvailable": false,
+    "balance": "$2,682.49",
+    "picture": "http://placehold.it/700x400",
+    "availableIn": "blue",
+    "name": "Erin Logan",
+    "company": "PHOTOBIN",
+    "contact": "+1 (959) 537-2083",
+    "address": "513 Anna Court, Westwood, Washington, 4818",
+    "about": "Est nisi fugiat cillum enim quis officia proident sint consectetur mollit enim. Consectetur in ullamco anim voluptate. Esse sit enim ullamco consequat.\r\n"
+  },
+  {
+    "id": 1,
+    "isAvailable": false,
+    "balance": "$1,835.46",
+    "picture": "http://placehold.it/700x400",
+    "availableIn": "blue",
+    "name": "Stephanie Carrillo",
+    "company": "KNEEDLES",
+    "contact": "+1 (972) 598-2765",
+    "address": "584 Cypress Avenue, Vale, Rhode Island, 8065",
+    "about": "Voluptate commodo eiusmod fugiat in occaecat culpa minim esse aliquip Lorem quis sit. Adipisicing dolore labore nisi do aliquip Lorem non quis nostrud exercitation laborum. Pariatur officia eu duis fugiat nostrud eu. Culpa id aute qui laboris laboris sint minim ut laborum ea eiusmod reprehenderit ex irure. Enim amet duis aliquip cupidatat qui in laboris reprehenderit. Non reprehenderit nisi aliqua excepteur occaecat Lorem elit.\r\n"
+  },
+  {
+    "id": 2,
+    "isAvailable": true,
+    "balance": "$3,775.24",
+    "picture": "http://placehold.it/700x400",
+    "availableIn": "green",
+    "name": "Brandi Burt",
+    "company": "MIRACULA",
+    "contact": "+1 (991) 577-3270",
+    "address": "583 Corbin Place, Chesterfield, Hawaii, 8453",
+    "about": "Do incididunt in non deserunt est aliquip nostrud. Sunt consequat nulla velit sunt nostrud aute enim excepteur est dolore. Deserunt do reprehenderit cillum pariatur ea irure et sint dolore veniam.\r\n"
+  },
+  {
+    "id": 3,
+    "isAvailable": false,
+    "balance": "$3,486.42",
+    "picture": "http://placehold.it/700x400",
+    "availableIn": "brown",
+    "name": "Patrica Henson",
+    "company": "GLEAMINK",
+    "contact": "+1 (976) 431-2379",
+    "address": "250 Ash Street, Northchase, Nevada, 9844",
+    "about": "Nulla magna excepteur ex deserunt dolore nostrud excepteur. Incididunt laborum sit excepteur proident eiusmod aute exercitation nulla veniam in. Nisi veniam qui eiusmod esse do ex fugiat sint Lorem nisi.\r\n"
+  },
+  {
+    "id": 4,
+    "isAvailable": false,
+    "balance": "$2,250.93",
+    "picture": "http://placehold.it/700x400",
+    "availableIn": "blue",
+    "name": "Rocha Munoz",
+    "company": "RODEOCEAN",
+    "contact": "+1 (933) 510-3676",
+    "address": "447 Haring Street, Needmore, Palau, 5485",
+    "about": "Cupidatat exercitation adipisicing est ut pariatur culpa voluptate ea ut laboris ea exercitation laborum. Laboris nisi elit minim laborum eiusmod. Nostrud laboris dolor exercitation est ex occaecat aute proident enim occaecat adipisicing do aliquip.\r\n"
+  },
+  {
+    "id": 5,
+    "isAvailable": false,
+    "balance": "$3,992.87",
+    "picture": "http://placehold.it/700x400",
+    "availableIn": "green",
+    "name": "Cabrera Baxter",
+    "company": "XLEEN",
+    "contact": "+1 (815) 531-2755",
+    "address": "767 Lorraine Street, Fidelis, Alaska, 3663",
+    "about": "Nisi in consequat aliquip proident non. Voluptate labore ullamco deserunt excepteur excepteur voluptate commodo cillum. Eiusmod aliquip adipisicing amet voluptate. Excepteur do labore deserunt aliquip consectetur non officia sunt adipisicing excepteur aliquip. Pariatur laboris qui quis ad amet aliqua et aliqua dolore. Consequat culpa velit cillum aliqua Lorem eu eu do elit aliqua. Fugiat Lorem exercitation nulla magna.\r\n"
+  },
+  {
+    "id": 6,
+    "isAvailable": true,
+    "balance": "$3,915.78",
+    "picture": "http://placehold.it/700x400",
+    "availableIn": "blue",
+    "name": "Burns Oliver",
+    "company": "XIIX",
+    "contact": "+1 (853) 549-3595",
+    "address": "113 Coles Street, Onton, South Dakota, 9122",
+    "about": "Eiusmod irure aliqua est et non adipisicing ea. Cillum amet nisi pariatur consequat qui id qui anim adipisicing nisi amet proident. Nisi mollit ut tempor nisi id aute excepteur nostrud labore nulla sint. Ea do culpa non nulla. Irure reprehenderit sunt eiusmod ad dolor mollit.\r\n"
+  }
+]

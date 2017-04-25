@@ -1,0 +1,18 @@
+<div class="container" ng-controller="myController">
+    <div class="row">
+        <div class="col">
+            <h1 class="page-header">
+                Amazing Products for <small class="text-muted">Amazing You!</small>
+            </h1>
+            <hr>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4 product-tumb" ng-repeat="product in productData">
+            <a href=""><img class="img-fluid" src="{{product.picture}}" alt=""></a>
+            <h3><a href="#/products/{{product.id}}">{{product.company}}</a></h3>
+            <p>{{product.about}}</p>
+        </div><!--div.product-tumb Ends -->
+    </div>
+    <hr>
+</div>
